@@ -1,0 +1,6 @@
+# No external Python packages required.
+# Tkinter is included with standard Python installations.
+# If Tkinter is missing, install it via your OS package manager:
+# For Debian/Ubuntu: sudo apt-get install python3-tk
+# For Fedora: sudo dnf install python3-tkinter
+# For Windows/macOS: Tkinter comes bundled with Python installers.
